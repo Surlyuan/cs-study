@@ -9,8 +9,7 @@ Since 2025.03.03
   <tr>
     <td align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/586301db-73c1-4220-af97-7927968cbede" width="150" height="150"/><br/>전제윤</td>
     <td align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/8229218f-ebde-47a8-bf73-14ece4efe787" width="150" height="150"/><br/>장동호</td>
-    <td align="center" style="border: none;"><img src="이미지3_URL" width="150"/><br/>김희영</td>
-  </tr>
+    <td align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/b742962b-fd33-492e-86a5-7e0529f14501" width="150" height="150"/><br/>김희영</td>
 </table>
 
 ## 📚 학습 주제
